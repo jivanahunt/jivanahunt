@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C# and ASP.NET (core)
 - 💞️ I’m looking to collaborate on some exciting projects!
-- 📫 You can message me here :)
+- 📫 You can message on twitter: @jivanahunt :)
 
 <!---
 jivanahunt/jivanahunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
